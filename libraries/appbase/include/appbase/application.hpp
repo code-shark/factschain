@@ -10,7 +10,6 @@ namespace appbase {
    namespace bpo = boost::program_options;
    namespace bfs = boost::filesystem;
 
-   
    class application
    {
       public:
